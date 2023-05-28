@@ -17,7 +17,10 @@ This prompt generates:
 
 ## Prompts
 ```
-This year, at Hillbrook School, we are doing this activity: Author’s Walkabout (1st/2nd grade) - Throughout the school year, students build collections of original artwork and stories, which they share with parents and peers at the end of the year! I need to write a four short, friendly letters to families (parents and caregivers) that I can send throughout the year and I'd like you to create some fillable templates that I can adapt and use:
+This year, at Hillbrook School, we are doing this activity: 
+Author’s Walkabout (1st/2nd grade) - Throughout the school year, students build collections of original artwork and stories, which they share with parents and peers at the end of the year! 
+
+I need to write a four short, friendly letters to families (parents and caregivers) that I can send throughout the year and I'd like you to create some fillable templates that I can adapt and use:
 Letter 1: Introduce the walkabout and how you can support your child this year as they develop their artwork and writing.
 Letter 2: Remind families of the ongoing work students are doing and the progress they have made 
 Letter 3: Invite families to the event. Suggest ways of interacting with their child and other children during the event.
